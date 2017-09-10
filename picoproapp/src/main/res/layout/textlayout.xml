@@ -11,5 +11,10 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textMultiLine" />
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center_vertical|center_horizontal"
+        android:inputType="textMultiLine"
+        android:textAlignment="center"
+        android:textColor="#003262"
+        android:textSize="80sp" />
 </LinearLayout>
